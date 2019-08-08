@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Helvetica LT Std';
+    src: url('../font/HelveticaLT/HelveticaLTStd-Fractions.eot');
+    src: local('../font/HelveticaLT/Helvetica LT Std Fractions'), local('HelveticaLTStd-Fractions'),
+    url('../font/HelveticaLT/HelveticaLTStd-Fractions.eot?#iefix') format('embedded-opentype'),
+    url('../font/HelveticaLT/HelveticaLTStd-Fractions.woff') format('woff'),
+    url('../font/HelveticaLT/HelveticaLTStd-Fractions.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica LT Std';
+    src: url('../font/HelveticaLT/HelveticaLTStd-Bold.eot');
+    src: local('../font/HelveticaLT/Helvetica LT Std Bold'), local('HelveticaLTStd-Bold'),
+    url('../font/HelveticaLT/HelveticaLTStd-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../font/HelveticaLT/HelveticaLTStd-Bold.woff') format('woff'),
+    url('../font/HelveticaLT/HelveticaLTStd-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
